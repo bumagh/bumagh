@@ -46,7 +46,9 @@ sudo mysql -u root -p
 # give privileges to all
 ```sh
 flush privileges;
+use mysql;
 update user set host='%' where user='root';
+ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'root';
 grant all privileges on *.* to 'root'@'%' with grant option;
 vim /etc/mysql/mysql.conf.d/mysqld.cnf
 open my.cnf and set
