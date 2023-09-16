@@ -58,7 +58,5 @@ USERNAME = root
 PASSWORD = 123456
 HOSTPORT = 3306
 CHARSET = utf8mb4
-DEBUG = true
-
-~              
+DEBUG = true            
 ```
