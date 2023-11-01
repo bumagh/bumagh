@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,Q as n}from"./chunks/framework.bf7c2cc3.js";const i=JSON.parse('{"title":"mysqldump","description":"","frontmatter":{},"headers":[],"relativePath":"db/mysql.md","filePath":"db/mysql.md"}'),o={name:"db/mysql.md"},p=n("",2),e=[p];function t(c,r,y,E,d,m){return a(),l("div",null,e)}const _=s(o,[["render",t]]);export{i as __pageData,_ as default};
