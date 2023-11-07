@@ -4,6 +4,8 @@
  PasswordAuthentication no
  ChallengeResponseAuthentication no
  UsePAM no
+ chmod 700 .ssh
+ chmod 600 .ssh/*
 ```
 
 # on windows use psftp
