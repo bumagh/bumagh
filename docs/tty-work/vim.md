@@ -2,3 +2,5 @@
 ```vim
 inoremap kj <Esc>
 ```
+# un highlight search keywords
+:noh
