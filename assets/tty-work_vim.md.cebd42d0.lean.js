@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,Q as e}from"./chunks/framework.bf7c2cc3.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tty-work/vim.md","filePath":"tty-work/vim.md"}'),o={name:"tty-work/vim.md"},n=e("",2),p=[n];function c(l,r,i,_,d,m){return t(),a("div",null,p)}const y=s(o,[["render",c]]);export{h as __pageData,y as default};
