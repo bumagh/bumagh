@@ -14,3 +14,6 @@ git checkout tag = svn switch tag
 git checkout branch = svn switch branch
 git checkout - path = svn revert path
 git rm path = svn rm path
+git push = svn update
+
+# svn test
