@@ -40,3 +40,30 @@ if cmpColorEx("722|1295|605C00,725|1317|FAFAF7",0.9) == 1 then
     tap(hotfixBtnPos.x,hotfixBtnPos.y)
 end
 ```
+
+## 课4 找图精准判断当前状态
+- 图色工具箱截图，保存为notice_page.png
+- ctrl + x 裁剪一部分用来找图 保存为notice.png
+- 在命令面板 选择找图 然后选择范围 ，查找命令选择findPicEx, 查找图片选择notice.png
+- 点击查找测试，复制命令到代码区 
+- 回到项目目录，找到资源 sgjm2024.rc， 双击，然后添加文件找到notice.png
+```lua
+runApp("club.xcgame520.mhsg")
+sleep(1000)
+
+local hotfixBtnPos = {x=763,y=1333}
+
+if cmpColorEx("722|1295|605C00,725|1317|FAFAF7",0.9) == 1 then
+	print("should hotfix")
+    sleep(1000)
+    tap(hotfixBtnPos.x,hotfixBtnPos.y)
+end
+
+sleep(3000)
+local x=-1 y=-1
+ret,x,y = findPicEx(387,88,582,193,"02notice.png",0.98)
+print(ret,x,y)
+
+local noticeCtnBtnPos = {x=851,y=2160}
+tap(noticeCtnBtnPos.x, noticeCtnBtnPos.y)
+```
