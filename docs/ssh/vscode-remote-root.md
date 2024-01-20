@@ -29,3 +29,4 @@ scp -r root@xxx:/root xxx
 ```sh
 chmod 777 -Rf xxx
 ```
+

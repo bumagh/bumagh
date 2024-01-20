@@ -7,3 +7,13 @@
 # raw.githubusercontent.com connection refused
 https://www.ipaddress.com/ 查询raw.githubusercontent.com的ip地址
 编辑hosts
+
+# git 22 port timeout
+
+$ vim ~/.ssh/config
+```
+# Add section below to it
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+```
