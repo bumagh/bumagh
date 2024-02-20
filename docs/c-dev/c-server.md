@@ -39,3 +39,7 @@ sudo apt install zlib1g zlib1g-dev
 ```bash
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 ```
+
+```fish
+setx LD_LIBRARY_PATH /usr/local/lib
+```
