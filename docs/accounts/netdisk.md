@@ -30,9 +30,12 @@
 3SysIso
 4Linux
 - 18296820619 Buma123pan2022 1KnowledgeBase
-
-
 - 13263988010 Gsj2024 type/image
 
 
 # baidupan
+- 13263988010 bumaya66
+
+# aliyunpan
+- 15179881652
+淘宝 gsj郭守金1
