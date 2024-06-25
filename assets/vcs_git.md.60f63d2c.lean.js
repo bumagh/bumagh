@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as e}from"./chunks/framework.981c3621.js";const E=JSON.parse('{"title":"gitignore生效","description":"","frontmatter":{},"headers":[],"relativePath":"vcs/git.md","filePath":"vcs/git.md"}'),l={name:"vcs/git.md"},p=e("",16),o=[p];function t(r,c,i,g,y,h){return a(),n("div",null,o)}const b=s(l,[["render",t]]);export{E as __pageData,b as default};
