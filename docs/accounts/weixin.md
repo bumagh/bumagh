@@ -10,6 +10,6 @@ AKG开源分享
 
 # gsj1008611 gsj1008611
 
-# easydots @vivo
+# easydots @vivo Gsj2024
 
 # K_S_G_Studio
