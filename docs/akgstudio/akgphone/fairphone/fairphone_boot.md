@@ -28,3 +28,9 @@ chown -R phablet:phablet /home/phablet/.ssh
 
 sudo service ssh start
 ssh phablet@ubuntu-phablet
+
+# fakeroot -> root
+
+# vi 键盘成为ABCD
+vim/vimrc.tiny
+set nocompatible
