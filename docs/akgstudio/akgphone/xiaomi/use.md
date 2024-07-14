@@ -46,4 +46,4 @@ sudo docker run -dit \
 --name qinglong \
 --hostname qinglong \
 --restart always \
-whyour/qinglong:2.12.0
+whyour/qinglong:latest
