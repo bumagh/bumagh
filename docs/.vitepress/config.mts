@@ -4,7 +4,7 @@ import { generateSidebar } from "vitepress-sidebar";
 export default defineConfig({
   title: "Buma blog",
   description: "A VitePress Site",
-  ignoreDeadLinks: true
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
