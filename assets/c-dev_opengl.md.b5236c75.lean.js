@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,Q as a}from"./chunks/framework.bf7c2cc3.js";const g=JSON.parse('{"title":"bug","description":"","frontmatter":{},"headers":[],"relativePath":"c-dev/opengl.md","filePath":"c-dev/opengl.md"}'),r={name:"c-dev/opengl.md"},n=a("",5),i=[n];function c(s,d,l,u,p,_){return t(),o("div",null,i)}const f=e(r,[["render",c]]);export{g as __pageData,f as default};

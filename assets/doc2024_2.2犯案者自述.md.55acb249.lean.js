@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.981c3621.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"doc2024/2.2犯案者自述.md","filePath":"doc2024/2.2犯案者自述.md"}'),o={name:"doc2024/2.2犯案者自述.md"};function c(r,_,s,n,d,p){return t(),a("div")}const f=e(o,[["render",c]]);export{m as __pageData,f as default};

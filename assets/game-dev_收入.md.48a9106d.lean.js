@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,Q as o}from"./chunks/framework.bf7c2cc3.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"game-dev/收入.md","filePath":"game-dev/收入.md"}'),n={name:"game-dev/收入.md"},s=o("",3),a=[s];function _(i,p,l,c,g,d){return t(),r("div",null,a)}const h=e(n,[["render",_]]);export{f as __pageData,h as default};

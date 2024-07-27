@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.bf7c2cc3.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"c-dev/cmake.md","filePath":"c-dev/cmake.md"}'),c={name:"c-dev/cmake.md"};function r(o,s,n,d,m,p){return t(),a("div")}const f=e(c,[["render",r]]);export{i as __pageData,f as default};

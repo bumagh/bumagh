@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.981c3621.js";const p=JSON.parse('{"title":"说明","description":"","frontmatter":{},"headers":[],"relativePath":"studio/akg工作室.md","filePath":"studio/akg工作室.md"}'),r={name:"studio/akg工作室.md"},i=o("",12),l=[i];function n(h,d,s,c,_,u){return e(),t("div",null,l)}const b=a(r,[["render",n]]);export{p as __pageData,b as default};
