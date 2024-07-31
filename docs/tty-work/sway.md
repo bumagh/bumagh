@@ -1,5 +1,7 @@
 # git rep
-git@github.com:bumagh/bumagh.github.io.git
+```bash
+git@github.com:bumagh/dotfiles.git
+```
 # Installing packages
 ```bash
 sudo apt install alacritty light sway swaybg swayidle swayimg swaylock waybar wofi fonts-font-awesome
