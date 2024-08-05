@@ -1,12 +1,12 @@
 For end-users
 Type	Free program[1][2]	SaaSS to Replace
-Real-time editor	Etherpad
+# Real-time editor	Etherpad
 Gobby
 
 Google Docs text editor
-Office suite	LibreOffice	Microsoft Office 365
-Satellite navigation	Navit	Google Maps
-Social network service Hpp-logo.png	Diaspora
+# Office suite	LibreOffice	Microsoft Office 365
+# Satellite navigation	Navit	Google Maps
+# Social network service Hpp-logo.png	Diaspora
 Friendica
 GNU social
 Mastodon
@@ -18,11 +18,11 @@ Weechat-scripts
 Facebook
 Twitter
 Linkedin
-Streaming video-on-demand	Tribler
+# Streaming video-on-demand	Tribler
 Popcorntime.sh
 
 Netflix
-E-mail client	Claws Mail
+# E-mail client	Claws Mail
 Evolution
 
 Apple iCloud (previously @me.com, @mac.com) webmail
@@ -37,11 +37,11 @@ Yandex Mail webmail
 Image editing	GIMP
 Inkscape
 
-Flickr photo editor
+# Flickr photo editor
 Instagram photo editor
 Pixlr
-Video editing	Blender	YouTube video editor
-VPN	OpenVPN
+# Video editing	Blender	YouTube video editor
+# VPN	OpenVPN
 Wireguard
 
 IVPN
@@ -50,27 +50,27 @@ NordVPN
 Private Internet Access
 For organizations
 Type	Free SaaSS[1][3]	SaaSS to Replace
-Collaborative real-time editor	Emacs + rudel
+# Collaborative real-time editor	Emacs + rudel
 Etherpad
 Gobby
 
 Google Docs, Google Sheets
-E-learning platform	Moodle	Google Classroom
-Internet radio	GNU FM	last.fm
-Internet radio streaming	Icecast	Radionomy
-Office suite	EtherCalc
+# E-learning platform	Moodle	Google Classroom
+# Internet radio	GNU FM	last.fm
+# Internet radio streaming	Icecast	Radionomy
+# Office suite	EtherCalc
 Etherpad
 LibreOffice Online
 PHPOffice
 
 Google Docs, Google Sheets, Microsoft Office 365
-Online money transfer system	Electrum
+# Online money transfer system	Electrum
 GNU Taler
 Monero Core
 
 PayPal
 Google Wallet
-Online storage, data synchronization	Nextcloud
+# Online storage, data synchronization	Nextcloud
 OnionShare
 ownCloud
 Sparkleshare
@@ -84,19 +84,19 @@ Dropbox
 Google Drive
 Microsoft OneDrive
 Yandex Disk
-Satellite navigation	Navit	Google Maps
-Social network service Hpp-logo.png	Crabgrass
+# Satellite navigation	Navit	Google Maps
+# Social network service Hpp-logo.png	Crabgrass
 matrix-synapse
 Facebook
 Google+
 Twitter
 Linkedin
-Source code hosting facilities	Savane	SourceForge
-Streaming video-on-demand	Tribler
+# Source code hosting facilities	Savane	SourceForge
+# Streaming video-on-demand	Tribler
 Popcorntime.sh
 
 Netflix
-E-mail client	Mail-in-a-Box
+# E-mail client	Mail-in-a-Box
 mailcow: dockerized
 Mailpile
 Roundcube
@@ -112,14 +112,14 @@ Microsoft MSN
 Microsoft Outlook.com
 Yahoo! Mail
 Yandex Mail
-Web search engine	GigaBlast Search
+# Web search engine	GigaBlast Search
 Searx
 YaCy
 
 Google Search
 Microsoft Bing
 Yahoo! Search
-Web server, media hosting and sharing	GNU MediaGoblin	Flickr
+# Web server, media hosting and sharing	GNU MediaGoblin	Flickr
 Imgur
 Instagram
 Picasa
