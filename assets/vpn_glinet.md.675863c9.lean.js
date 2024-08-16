@@ -1,1 +1,0 @@
-import{_ as t,o,c as e,Q as a}from"./chunks/framework.bf7c2cc3.js";const _=JSON.parse('{"title":"备份文件到指定目录","description":"","frontmatter":{},"headers":[],"relativePath":"vpn/glinet.md","filePath":"vpn/glinet.md"}'),n={name:"vpn/glinet.md"},s=a("",8),c=[s];function r(h,p,i,u,d,q){return o(),e("div",null,c)}const m=t(n,[["render",r]]);export{_ as __pageData,m as default};

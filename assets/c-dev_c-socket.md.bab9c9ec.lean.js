@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./chunks/framework.1c8de9a3.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"c-dev/c-socket.md","filePath":"c-dev/c-socket.md"}'),o={name:"c-dev/c-socket.md"};function a(s,r,n,d,p,_){return t(),c("div")}const f=e(o,[["render",a]]);export{m as __pageData,f as default};

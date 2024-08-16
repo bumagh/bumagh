@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,Q as n}from"./chunks/framework.1c8de9a3.js";const E=JSON.parse('{"title":"git简介与安装","description":"","frontmatter":{},"headers":[],"relativePath":"vcs/git.md","filePath":"vcs/git.md"}'),l={name:"vcs/git.md"},o=n("",43),t=[o];function p(r,i,c,h,d,g){return s(),e("div",null,t)}const b=a(l,[["render",p]]);export{E as __pageData,b as default};

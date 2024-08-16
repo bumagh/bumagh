@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,Q as t}from"./chunks/framework.1c8de9a3.js";const u=JSON.parse('{"title":"下载mingw","description":"","frontmatter":{},"headers":[],"relativePath":"c-dev/env.md","filePath":"c-dev/env.md"}'),n={name:"c-dev/env.md"},o=t("",8),l=[o];function p(r,c,i,h,d,_){return s(),e("div",null,l)}const y=a(n,[["render",p]]);export{u as __pageData,y as default};

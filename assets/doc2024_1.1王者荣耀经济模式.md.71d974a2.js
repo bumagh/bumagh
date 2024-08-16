@@ -1,0 +1,8 @@
+import{_ as t,o as a,c as e,Q as d}from"./chunks/framework.1c8de9a3.js";const b=JSON.parse('{"title":"0 历史","description":"","frontmatter":{},"headers":[],"relativePath":"doc2024/1.1王者荣耀经济模式.md","filePath":"doc2024/1.1王者荣耀经济模式.md"}'),r={name:"doc2024/1.1王者荣耀经济模式.md"},o=d(`<h1 id="_0-历史" tabindex="-1">0 历史 <a class="header-anchor" href="#_0-历史" aria-label="Permalink to &quot;0 历史&quot;">​</a></h1><pre><code>王者荣耀游戏本身也是从端游移植过来的，起初也只是一个开源游戏，被某个工作室开发竞争上线被收购以后，投资优化，才成就了如今的王者荣耀。
+</code></pre><h1 id="_1-人员分析" tabindex="-1">1 人员分析 <a class="header-anchor" href="#_1-人员分析" aria-label="Permalink to &quot;1 人员分析&quot;">​</a></h1><pre><code>一个游戏工作室：开发者，美术，策划，运营
+其他：投资人，推广，美术，赛事等等
+此外还有玩家，职业，自媒体人
+</code></pre><h1 id="_2-需求分析" tabindex="-1">2 需求分析 <a class="header-anchor" href="#_2-需求分析" aria-label="Permalink to &quot;2 需求分析&quot;">​</a></h1><ul><li>玩家：练号，陪玩，自媒体视频，比赛，游戏体验</li></ul><h1 id="_3-收益分析" tabindex="-1">3 收益分析 <a class="header-anchor" href="#_3-收益分析" aria-label="Permalink to &quot;3 收益分析&quot;">​</a></h1><pre><code>从上到下：
+投资方，管理层，工作层
+职业，自媒体人，玩家
+</code></pre><ul><li>练号： <table><thead><tr><th>项目</th><th>时间(h)</th><th>收益（yuan）</th><th>需求人数</th><th>每天收益</th></tr></thead><tbody><tr><td>排位上分</td><td>0.25</td><td></td><td>----</td><td></td></tr><tr><td>单元格</td><td>单元格</td><td>单元格</td><td></td><td></td></tr></tbody></table></li></ul><h1 id="_4-这个游戏-我们该怎么处理" tabindex="-1">4 这个游戏，我们该怎么处理 <a class="header-anchor" href="#_4-这个游戏-我们该怎么处理" aria-label="Permalink to &quot;4 这个游戏，我们该怎么处理&quot;">​</a></h1><ul><li></li></ul>`,11),_=[o];function h(l,n,i,c,s,u){return a(),e("div",null,_)}const m=t(r,[["render",h]]);export{b as __pageData,m as default};

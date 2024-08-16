@@ -1,1 +1,0 @@
-import{_ as l,o as i,c as a,Q as t}from"./chunks/framework.bf7c2cc3.js";const m=JSON.parse('{"title":"分数","description":"","frontmatter":{},"headers":[],"relativePath":"todo/day0419.md","filePath":"todo/day0419.md"}'),o={name:"todo/day0419.md"},e=t("",4),p=[e];function d(u,s,r,c,_,n){return i(),a("div",null,p)}const f=l(o,[["render",d]]);export{m as __pageData,f as default};

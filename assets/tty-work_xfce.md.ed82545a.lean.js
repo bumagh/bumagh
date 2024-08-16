@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,Q as a}from"./chunks/framework.1c8de9a3.js";const h=JSON.parse('{"title":"安装远程桌面","description":"","frontmatter":{},"headers":[],"relativePath":"tty-work/xfce.md","filePath":"tty-work/xfce.md"}'),s={name:"tty-work/xfce.md"},r=a("",17),c=[r];function i(p,d,n,l,_,x){return o(),t("div",null,c)}const u=e(s,[["render",i]]);export{h as __pageData,u as default};

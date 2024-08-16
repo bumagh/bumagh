@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,Q as n}from"./chunks/framework.bf7c2cc3.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"game-dev/inbox.md","filePath":"game-dev/inbox.md"}'),r={name:"game-dev/inbox.md"},i=n("",5),e=[i];function l(p,_,a,g,c,d){return o(),s("div",null,e)}const u=t(r,[["render",l]]);export{f as __pageData,u as default};
