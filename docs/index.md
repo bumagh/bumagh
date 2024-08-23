@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Buma blog"
-  text: "A VitePress Site"
+  text: "A tech tuorial share site"
   tagline: My great project tagline
   actions:
     - theme: brand
