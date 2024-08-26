@@ -50,3 +50,6 @@ http://192.168.1.1/cgi-bin/abcdidfope94e0934jiewru8ew414.cgi，
 五、随后，您就可以根据自己需要改光猫为桥接模式了。 
 
 感谢https://blog.csdn.net/gsls200808/article/details/106307953提供的telnet开启信息。
+
+
+# 38F6CF3F9994
