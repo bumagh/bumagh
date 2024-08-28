@@ -9,7 +9,10 @@ https://www.ipaddress.com/ 查询raw.githubusercontent.com的ip地址
 编辑hosts
 
 # git 22 port timeout
+```bash
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMTkjvczUYViarteT2nDHEWJixTkBwVYFGAFpSKCImqk g@g-Aspire-One-522
+```
 $ vim ~/.ssh/config
 ```
 # Add section below to it
