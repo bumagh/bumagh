@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,Q as r}from"./chunks/framework.1c8de9a3.js";const y=JSON.parse('{"title":"笔记本电脑","description":"","frontmatter":{},"headers":[],"relativePath":"todo/buy.md","filePath":"todo/buy.md"}'),o={name:"todo/buy.md"},s=r("",7),i=[s];function m(h,c,d,p,l,n){return a(),t("div",null,i)}const b=e(o,[["render",m]]);export{y as __pageData,b as default};

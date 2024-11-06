@@ -1,0 +1,1 @@
+import{_ as r,o,c as a,Q as t}from"./chunks/framework.1c8de9a3.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"economy/睡后收入.md","filePath":"economy/睡后收入.md"}'),l={name:"economy/睡后收入.md"},n=t("",64),i=[n];function s(e,g,h,u,d,_){return o(),a("div",null,i)}const q=r(l,[["render",s]]);export{b as __pageData,q as default};
