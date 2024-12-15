@@ -1,0 +1,3 @@
+import{_ as t,o as a,c as o,k as e}from"./chunks/framework.1c8de9a3.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"akgstudio/akgwriter/在小说里实现梦想又怎样.md","filePath":"akgstudio/akgwriter/在小说里实现梦想又怎样.md"}'),r={name:"akgstudio/akgwriter/在小说里实现梦想又怎样.md"},_=e("pre",null,[e("code",null,`小说和现实,有什么区别呢?小说不是真的吗?那显示又何曾是真的呢?在你死亡的那一个,犹如别人把你写进一本有结局的小说里,某某死于什么原因,从此,以你为本的小说就此结束.而后的一切,和你无关.别人可以在文学层面把你剥开来看,可以看你这一生.既然是这样,那我为何不在小说里实现自己的梦想呢?现实这本小说蓝本限制得很死.你要说能实现一个梦想,就够了.我想赚够10个亿,买豪车,住好房,娶妻生子,做人生赢家.那可能对某些人,是永远不可能得事情.
+说了这么多是吧,不如跟随我脚步,让我们来策划一个小说让你来实现一个梦想.
+`)],-1),s=[_];function n(c,i,d,l,p,u){return a(),o("div",null,s)}const f=t(r,[["render",n]]);export{m as __pageData,f as default};
